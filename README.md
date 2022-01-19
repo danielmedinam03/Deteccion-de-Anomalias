@@ -4,3 +4,5 @@
 
 #Descripcion
 Proyecto de deteccion de anomalias usando microcontrolador arduino, sensores y programacion para gestion y analisis de datos.
+
+El sistemas se encuentra en proceso de construccion en su etapa final, ya que se cuenta con un sistema inicial de autoria de Daniel Medina, del cual se desea realizar un sistema con interfaz grafica, BD en MySql Workbench cada que se ejecute el programa.
