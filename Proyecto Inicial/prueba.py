@@ -4,15 +4,12 @@ Created on Tue May 11 06:53:12 2021
 
 @author: PC
 """
-from serial import*
 import sqlite3
 import datetime
 import time
 import matplotlib.pyplot as plt
 import pandas as pd
 import serial
-#import Seaborn as sb
-#import numpy as np
 
 conexion=sqlite3.connect("PRUEBABD.db")
 
